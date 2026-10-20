@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+whoami;Antonio+Su%C3%A1rez;Estudiante+de+Ing.+Inform%C3%A1tica;Full+Stack+%7C+Apps+m%C3%B3viles;Entender+%3E+que+solo+corra" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%3E+whoami;Antonio+Suazo;" alt="Typing SVG" />
 
 </div>
 
@@ -13,8 +13,7 @@ $ cat antonio.txt
 nombre:      Antonio Andrés Suazo Sánchez
 rol:         estudiante de Ing. Informática @ Duoc UC
 nivel:       terminando 2° año
-enfoque:     full stack + apps móviles + bases de datos
-status:      en racha 🟩🟩🟩🟩🟩
+enfoque:     ciberseguridad + full stack + apps móviles + bases de datos
 ```
 
 ## `> now_building`
@@ -34,13 +33,6 @@ $ cat aprendiendo.txt
 - AWS (cloud)
 ```
 
-## `> philosophy`
-
-```bash
-$ echo "no basta con que corra, tiene que entenderse"
-no basta con que corra, tiene que entenderse
-```
-
 ## `> stack`
 
 <p>
@@ -55,23 +47,16 @@ no basta con que corra, tiene que entenderse
   <img src="https://streak-stats.demolab.com?user=AntonioSSdev&background=0D1117&ring=FF2E88&fire=FF2E88&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=A855F7&sideLabels=A855F7&dates=9CA3AF&border=A855F7" alt="GitHub streak" />
 </p>
 
-## `> contribution_snake`
+## `> snake`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AntonioSSdev/AntonioSSdev/output/github-snake-dark.svg" alt="snake" />
 </p>
 
-## `> off_duty`
-
-🎵 música · 📺 series · 🎮 juegos
-
 ## `> contact`
 
 ```bash
 $ ping antonio
-📫 antoniossdev@gmail.com
+antoniossdev@gmail.com
 ```
 
-<div align="center">
-<sub>🟩 un commit a la vez 🟩</sub>
-</div>
