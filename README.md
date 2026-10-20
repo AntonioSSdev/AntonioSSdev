@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=160&section=header&text=Antonio%20Suazo&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=%3E%20ing.%20inform%C3%A1tica%20%7C%20full%20stack%20%7C%20ciberseguridad&descSize=16&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=160&section=header&text=Antonio%20Andrés%20Suazo%20Sánchez&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=%3E%20ing.%20inform%C3%A1tica%20%7C%20full%20stack%20%7C%20ciberseguridad&descSize=16&descAlignY=65" width="100%" />
 
 <div align="center">
 
