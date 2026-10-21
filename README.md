@@ -51,7 +51,6 @@ $ cat aprendiendo.txt
   <img src="https://streak-stats.demolab.com?user=AntonioSSdev&background=0D1117&ring=FF2E88&fire=FF2E88&currStreakNum=39FF14&currStreakLabel=39FF14&sideNums=A855F7&sideLabels=A855F7&dates=9CA3AF&border=A855F7" alt="GitHub streak" />
 </p>
 
-<img src="https://img.shields.io/badge/%3E_snake-FF2E88?style=for-the-badge" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AntonioSSdev/AntonioSSdev/output/github-snake-dark.svg" alt="snake" />
