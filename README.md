@@ -52,10 +52,6 @@ $ cat aprendiendo.txt
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AntonioSSdev/AntonioSSdev/output/github-snake-dark.svg" alt="snake" />
-</p>
-
 <img src="https://img.shields.io/badge/%3E_contact-E11D48?style=for-the-badge" />
 
 ```bash
